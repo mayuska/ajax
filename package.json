@@ -1,0 +1,19 @@
+{
+  "name": "ajax",
+  "version": "1.0.0",
+  "description": "Simple ajax hander",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mayuska/ajax.git"
+  },
+  "author": "Maja Radošević",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayuska/ajax/issues"
+  },
+  "homepage": "https://github.com/mayuska/ajax#readme"
+}
