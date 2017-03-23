@@ -1,5 +1,5 @@
 {
-  "name": "ajax",
+  "name": "simple-ajax-handler",
   "version": "1.0.0",
   "description": "Simple ajax hander",
   "main": "index.js",
